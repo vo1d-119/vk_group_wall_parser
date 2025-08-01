@@ -12,7 +12,7 @@
 1. Установите [Python 3.13.2](https://www.python.org/downloads/release/python-3132/)
 2. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/vo1d-119/vk_group_wall_parser](https://github.com/vo1d-119/vk_group_wall_parser)
+git clone https://github.com/vo1d-119/vk_group_wall_parser
 cd vk_group_wall_parser
 ```
 3. Установка зависимостей:
